@@ -12,6 +12,11 @@ body p {
     color: #bcbcbc;
 }
 
+body a {
+    text-decoration: none;
+    color: #bcbcbc;
+}
+
 .logo img {
     width: 100%;
 }
@@ -96,9 +101,26 @@ ul> button> i {
     margin: 20px;
 }
 
-.box-white img {
-    
+.footer-images img {
+    width: 230px;
+    margin: 5px;
+    margin-bottom: 80px;
 }
+
+.text-grey {
+    font-size: 14px;
+}
+
+.icon-footer i {
+    font-size: 40px;
+}
+
+.icon-footer i:hover {
+    color: red;
+    transition: .5s ease;
+}
+
+
 
 
 
