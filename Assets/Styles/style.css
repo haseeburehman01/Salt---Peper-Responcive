@@ -8,6 +8,14 @@
     background-color: #000000;
 }
 
+body p {
+    color: #bcbcbc;
+}
+
+.logo img {
+    width: 100%;
+}
+
 .icon i {
     font-size: 30px;
 }
@@ -16,5 +24,61 @@ ul> button {
     padding: 10px;
     border: 1px solid #ffffff;
     border-radius: 50px;
+    width: 160px;
+    height: 50px;
 }
+
+ul> button:hover {
+    color: red;
+    transition: 1s ease;
+    background-color: white;
+}
+
+.bg-red {
+    background-color: red;
+    border: none;
+}
+
+ul li:hover {
+    color: red;
+    cursor: pointer;
+    transition: 1s ease;
+}
+
+.header-main img {
+    width: 100%;
+}
+
+ul> button> i {
+    background-color: #ffffff;
+    padding: 6px;
+    color: #000000;
+    border-radius: 20px;
+}
+
+.text-change {
+    font-family: 'Lemon', serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.images img {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.islamabd img {
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+.red-font {
+    letter-spacing: 10px;
+    color: red;
+    font-weight: bold;
+}
+
+
+
 
