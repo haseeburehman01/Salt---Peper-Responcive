@@ -33,6 +33,7 @@ ul> button {
     height: 50px;
 }
 
+
 ul> button:hover {
     color: red;
     transition: 1s ease;
@@ -120,6 +121,19 @@ ul> button> i {
     color: red;
     transition: .5s ease;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
